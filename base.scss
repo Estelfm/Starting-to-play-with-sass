@@ -1,0 +1,19 @@
+@import 'reset';
+@import 'firstDay';
+@font-face {
+	font-family:GreatVives;
+	src:url('fonts/GreatVibes-Regular.otf');
+}
+@font-face {
+	font-family:OpenSans;
+	src:url('fonts/OpenSans-Regular.ttf');
+}
+body,article,section{
+	font-family:OpenSans;
+}
+h1,h2,h3{
+	font-family:GreatVives;
+}
+article{
+
+}
